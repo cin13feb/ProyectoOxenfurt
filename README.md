@@ -15,4 +15,5 @@ Ola k ase?
 	- sistemita uniciencias
 	- sistemita de personal
 	- sistemita de toner
+	- sistemitas de cosas de cursos
 
