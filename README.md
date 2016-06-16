@@ -11,7 +11,7 @@ Ola k ase?
 
 ###Ejemplos de cómputo
 
--Programas
+- Programas
 	- sistemita uniciencias
 	- sistemita de personal
 	- sistemita de toner
